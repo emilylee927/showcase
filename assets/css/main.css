@@ -1046,7 +1046,7 @@ button {
 }
 
 .about-bg {
-    background: url('../img/portfolio/4.jpg') center center no-repeat;
+    background: url('../img/about/winter.jpg') center center no-repeat;
     background-size: cover;
 }
 
@@ -1295,7 +1295,17 @@ p.author-text {
 -----------------------------------------------------------------*/
 
 .project-detail-1 {
-    background: url('../img/portfolio/3.jpg') center center no-repeat;
+    background: url('../img/graphics-design/florence.png') center center no-repeat;
+    background-size: cover;
+}
+
+.project-detail-2 {
+    background: url('../img/photography/suit.png') center center no-repeat;
+    background-size: cover;
+}
+
+.project-detail-3 {
+    background: url('../img/video-production/video_clients.jpg') center center no-repeat;
     background-size: cover;
 }
 
